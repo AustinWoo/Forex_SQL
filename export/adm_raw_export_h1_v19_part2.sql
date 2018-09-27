@@ -1,4 +1,4 @@
-drop table IF EXISTS export.adm_raw_export_h1_v19_part1;
+drop table IF EXISTS export.adm_raw_export_h1_v19_part2;
 
 
 SELECT
@@ -862,7 +862,7 @@ SELECT
       ,lable_h1_price_2avg_gap
       ,lable_price_2avg
 
-into export.adm_raw_export_h1_v19_part1
+into export.adm_raw_export_h1_v19_part2
 
 FROM adm.h1_price_h1 as t1
       LEFT OUTER JOIN adm.h1_price_bar_h1 as t2
@@ -887,12 +887,14 @@ FROM adm.h1_price_h1 as t1
 where
 
   t1.currency='EURUSD' and
-  year(t1.pricedate)<=2017 and
+  year(t1.pricedate)=2018 and
   h1_t1_h1 is not null and
   t2.pricedate is not null and
   t3.pricedate is not null and
   t4.pricedate is not null and
-  t5.pricedate is not null
+  t5.pricedate is not null and
+  lable_h1_2avg is not null and
+  lable_h1_price_2avg is not null
 
 
 ;
