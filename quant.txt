@@ -63,9 +63,21 @@ http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Pre
 【深度学习量化投资】RNNs在股票价格预测的应用基于Keras
 https://cloud.tencent.com/developer/article/1031047
 
+
+第一步
+[量化学堂-机器学习]基于LSTM的股票价格预测模型
+https://community.bigquant.com/t/%E9%87%8F%E5%8C%96%E5%AD%A6%E5%A0%82-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E4%BA%8ELSTM%E7%9A%84%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B/201
+第二步
 LSTM Networks应用于股票市场探究
 https://community.bigquant.com/t/LSTM-Networks%E5%BA%94%E7%94%A8%E4%BA%8E%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA%E6%8E%A2%E7%A9%B6/317
+第三步
+LSTM Networks应用于股票市场之Sequential Model
+https://community.bigquant.com/t/LSTM-Networks%E5%BA%94%E7%94%A8%E4%BA%8E%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA%E4%B9%8BSequential-Model/320
+第四步
+LSTM Networks应用于股票市场之Functional Model
+https://community.bigquant.com/t/LSTM-Networks%E5%BA%94%E7%94%A8%E4%BA%8E%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA%E4%B9%8BFunctional-Model/321
 
+第五步，前沿文章
 最全 LSTM 模型在量化交易中的应用汇总（代码+论文）
 https://community.bigquant.com/t/%E6%9C%80%E5%85%A8-LSTM-%E6%A8%A1%E5%9E%8B%E5%9C%A8%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E6%B1%87%E6%80%BB%EF%BC%88%E4%BB%A3%E7%A0%81%E8%AE%BA%E6%96%87%EF%BC%89/112371
 
