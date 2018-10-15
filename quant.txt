@@ -1,5 +1,6 @@
 Keras
 
+jupyter notebook
 
 
 干货
@@ -56,6 +57,8 @@ https://blog.csdn.net/weixin_37450657/article/details/78790194
 
 教你打造股市晴雨表——通过LSTM神经网络预测股市
 https://yq.aliyun.com/articles/68463
+http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction
+
 
 【深度学习量化投资】RNNs在股票价格预测的应用基于Keras
 https://cloud.tencent.com/developer/article/1031047
