@@ -3,6 +3,13 @@ Keras
 jupyter notebook
 
 
+
+机器学习
+coursera
+udacity
+datacamp
+
+
 干货
 
 https://bigquant.com/
@@ -12,6 +19,11 @@ pp@391404
 https://www.joinquant.com/
 13850009083
 pp@391404
+
+国泰君安
+https://quant.gtja.com/
+13850009083
+Pp@391404
 
 https://uqer.io/
 
